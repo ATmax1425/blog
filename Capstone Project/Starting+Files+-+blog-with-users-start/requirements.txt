@@ -1,4 +1,13 @@
 gunicorn==20.1.0
+Flask-Bootstrap==3.3.7.1
+Flask-CKEditor==0.4.6
+Werkzeug==2.0.3
+flask-sqlalchemy==2.5.1
+SQLAlchemy==1.4.32
+Flask-Login==0.6.0
+WTForms==3.0.1
+Flask-Gravatar==0.5.0
+flask-wtf==1.0.0
 Flask~=2.1.1
 Werkzeug~=2.0.3
 SQLAlchemy~=1.4.32
